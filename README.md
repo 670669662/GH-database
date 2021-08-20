@@ -1,4 +1,4 @@
-Hi everyone ，my name is Chongyang Ren，I live in china currently
+Hi everyone ，my name is Chongyang Ren，I live in china currently.
 
 - 🔭 I’m currently working on Plasma studio
 - 🌱 I’m currently learning Master of landscape at RMIT
